@@ -1,0 +1,15 @@
+{
+  "name": "doc-b-end",
+  "version": "1.0.0",
+  "description": "Backend for docOnline",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sayoojya",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "nodemon": "^3.0.2"
+  }
+}
